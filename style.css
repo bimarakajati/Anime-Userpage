@@ -97,8 +97,8 @@ body {
 
 /* The Close Button */
 .close {
-    position: absolute;
     color: white;
+    position: absolute;
     /* float: right; */
     right: 8px;
     font-size: 28px;
@@ -115,19 +115,16 @@ body {
     background-color: #fca6b2;
     color: #292b2c;
     border-radius: 10px 10px 0px 0px;
-    /* text-align: center; */
 }
 .modal-body {
     padding: 2px 16px;
     background-color: #f7f7f7;
-    /* text-align: center; */
 }
 .modal-footer {
     padding: 2px 16px;
     background-color: #9dc4f9;
     color: #292b2c;
     border-radius: 0px 0px 10px 10px;
-    /* text-align: center; */
 }
 
 /* link */
@@ -142,7 +139,7 @@ a:visited {
     text-decoration: none;
 }
 a:hover {
-    color: black;
+    color: #d9534f;
     background-color: transparent;
     text-decoration: underline;
 }
